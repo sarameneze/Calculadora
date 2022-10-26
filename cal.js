@@ -11,8 +11,8 @@ function divisao (a,b){
    
 }
 module.exports = {
-    soma;
-    multiplicacao;
-    subtracao;
-    divisao;
+    soma,
+    multiplicacao,
+    subtracao,
+    divisao
 };
